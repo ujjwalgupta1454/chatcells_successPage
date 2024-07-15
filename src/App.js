@@ -5,7 +5,7 @@ const SuccessPage = () => {
     <div className="container flex flex-col justify-around h-screen mx-auto">
       <div className="flex justify-center mt-5">
         <div className="col-7 col-sm-6 col-md-4 col-lg-3 flex items-center">
-          <a href="https://chatcells.ai/" aria-label="Chatbase">
+          <a href="https://chatcells.ai/" aria-label="Chatcells">
             <img src={`${process.env.PUBLIC_URL}/chatcells-logo.png`} alt="Chatcells Logo" className="w-16" />
           </a>
           <div className="text-black text-4xl ml-2">Chatcells</div>
